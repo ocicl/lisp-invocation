@@ -2,8 +2,10 @@
 
 A small library for starting processes from LISP.
 
+
 |---------+--------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/qitab/lisp-invocation.git |
-| commit  | ebf543ca17422dfbb51609f5b6d35a98c5f07449                                                             |
+| commit  | ebf543c                                                      |
 | systems | lisp-invocation                                              |
 |---------+--------------------------------------------------------------|
+-------------------------------------|
